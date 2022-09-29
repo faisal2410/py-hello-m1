@@ -1,0 +1,2 @@
+isHungry=True
+print(isHungry)
